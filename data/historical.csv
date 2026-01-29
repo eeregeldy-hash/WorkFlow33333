@@ -1,0 +1,529 @@
+﻿Div,HomeTeam,AwayTeam,HC,AC,source_file
+E1,Hyde Utd,Rushall Olympic,5,6,E1
+E1,Ashton Utd,Warrington Rylands,5,7,E1
+E1,Cleethorpes Town,Ilkeston Town,7,4,E1
+E1,Hednesford,Leek Town,5,5,E1
+E1,Morpeth Town,FC United of Manchester,0,4,E1
+E1,Stocksbridge P S,Bamber Bridge,5,6,E1
+E1,Hebburn Town,Whitby,4,4,E1
+E1,Leek Town,Hyde Utd,7,2,E1
+E1,Prescot Cables,Whitby,4,2,E1
+E1,Warrington Rylands,Guiseley,3,1,E1
+E1,Gainsborough,Morpeth Town,6,5,E1
+E1,FC United of Manchester,Warrington Town,8,4,E1
+E1,Bamber Bridge,Hyde Utd,8,3,E1
+E1,Bamber Bridge,Warrington Town,6,4,E1
+E1,FC United of Manchester,Workington,9,4,E1
+E1,Whitby,Ilkeston Town,2,5,E1
+E1,Leek Town,FC United of Manchester,5,4,E1
+E1,Ilkeston Town,Morpeth Town,6,3,E1
+E1,Hyde Utd,Ilkeston Town,2,7,E1
+E1,Stocksbridge P S,Guiseley,3,7,E1
+E1,FC United of Manchester,Ashton Utd,6,5,E1
+E1,Gainsborough,Cleethorpes Town,6,5,E1
+E1,Rushall Olympic,Hednesford,7,5,E1
+E1,Warrington Town,Leek Town,5,5,E1
+E1,Hednesford,FC United of Manchester,3,6,E1
+E1,Cleethorpes Town,Workington,6,1,E1
+E1,Leek Town,Stocksbridge P S,4,5,E1
+E1,Ashton Utd,Hyde Utd,4,7,E1
+E1,Hebburn Town,Guiseley,4,7,E1
+E1,Hyde Utd,Cleethorpes Town,3,5,E1
+E1,Bamber Bridge,Warrington Rylands,5,6,E1
+E1,FC United of Manchester,Lancaster City,2,16,E1
+E1,Gainsborough,Ilkeston Town,3,2,E1
+E1,Rushall Olympic,Leek Town,5,3,E1
+E1,Warrington Town,Hednesford,6,8,E1
+E1,Workington,Stockton Town,4,8,E1
+E1,Prescot Cables,Ashton Utd,2,3,E1
+E1,Ilkeston Town,Hednesford,7,3,E1
+E1,Prescot Cables,Guiseley,11,5,E1
+E1,Warrington Rylands,Lancaster City,3,16,E1
+E1,Bamber Bridge,Ashton Utd,6,6,E1
+E1,Prescot Cables,Guiseley,11,5,E1
+E1,Ilkeston Town,Hednesford,7,3,E1
+E1,Stocksbridge P S,FC United of Manchester,4,2,E1
+E1,Guiseley,Leek Town,2,6,E1
+E1,Hednesford,Warrington Rylands,6,3,E1
+E1,Hyde Utd,Hebburn Town,5,3,E1
+E1,Stocksbridge P S,Stockton Town,2,8,E1
+E1,Warrington Town,Gainsborough,3,3,E1
+E1,Stockton Town,Leek Town,10,4,E1
+E1,Stocksbridge P S,Lancaster City,3,2,E1
+E1,FC United of Manchester,Ilkeston Town,5,7,E1
+E1,Bamber Bridge,Prescot Cables,8,4,E1
+E1,Ashton Utd,Hednesford,8,4,E1
+E1,Gainsborough,Hebburn Town,8,3,E1
+E1,Guiseley,Ashton Utd,7,2,E1
+E1,Hebburn Town,Bamber Bridge,7,2,E1
+E1,Hednesford,Cleethorpes Town,5,7,E1
+E1,Hyde Utd,FC United of Manchester,5,3,E1
+E1,Prescot Cables,Gainsborough,7,6,E1
+E1,Hednesford,Bamber Bridge,2,3,E1
+E1,Warrington Rylands,Whitby,7,1,E1
+E1,Hyde Utd,Warrington Town,11,4,E1
+E1,Guiseley,Cleethorpes Town,9,9,E1
+E1,Ashton Utd,Morpeth Town,4,5,E1
+E1,Morpeth Town,Stocksbridge P S,5,3,E1
+E1,Hednesford,Hyde Utd,5,5,E1
+E1,Leek Town,Ashton Utd,2,5,E1
+E1,Warrington Town,FC United of Manchester,3,5,E1
+E1,Gainsborough,Rushall Olympic,10,5,E1
+E1,Whitby,Guiseley,6,5,E1
+E1,Warrington Town,Stockton Town,8,7,E1
+E1,Prescot Cables,Hebburn Town,4,5,E1
+E1,Ilkeston Town,Ashton Utd,6,7,E1
+E1,FC United of Manchester,Warrington Rylands,5,10,E1
+E1,Stocksbridge P S,Rushall Olympic,6,1,E1
+E1,Ashton Utd,Cleethorpes Town,14,1,E1
+E1,Guiseley,Hednesford,2,5,E1
+E1,Hebburn Town,Warrington Town,3,2,E1
+E1,Hyde Utd,Morpeth Town,7,9,E1
+E1,Rushall Olympic,Prescot Cables,4,8,E1
+E1,Stocksbridge P S,Workington,1,2,E1
+E1,Stockton Town,Ilkeston Town,5,4,E1
+E1,Warrington Rylands,Leek Town,1,3,E1
+E1,Warrington Town,Ashton Utd,5,2,E1
+E1,Prescot Cables,Hyde Utd,7,6,E1
+E1,Hednesford,Stockton Town,0,5,E1
+E1,Workington,Gainsborough,2,2,E1
+E1,Hyde Utd,Stocksbridge P S,3,7,E1
+E1,FC United of Manchester,Rushall Olympic,4,2,E1
+E1,Gainsborough,FC United of Manchester,3,6,E1
+E1,Ilkeston Town,Warrington Rylands,7,2,E1
+E1,Lancaster City,Hednesford,4,1,E1
+E1,Prescot Cables,Stocksbridge P S,7,3,E1
+E1,Rushall Olympic,Cleethorpes Town,3,6,E1
+E1,Stockton Town,Ashton Utd,8,2,E1
+E1,Whitby,Hednesford,0,5,E1
+E1,Morpeth Town,Cleethorpes Town,5,3,E1
+E1,Ashton Utd,Hebburn Town,1,6,E1
+E1,Guiseley,Ilkeston Town,2,3,E1
+E1,Stocksbridge P S,Warrington Town,3,7,E1
+E1,Cleethorpes Town,Prescot Cables,9,6,E1
+E1,Bamber Bridge,Rushall Olympic,3,3,E1
+E1,Ashton Utd,Whitby,4,4,E1
+E1,FC United of Manchester,Hebburn Town,7,5,E1
+E1,Hyde Utd,Bamber Bridge,3,3,E1
+E1,Guiseley,Warrington Rylands,2,7,E1
+E1,Whitby,Prescot Cables,3,4,E1
+E1,Ilkeston Town,Workington,4,2,E1
+E1,Hebburn Town,Warrington Rylands,6,6,E1
+E1,Prescot Cables,FC United of Manchester,5,10,E1
+E1,Stocksbridge P S,Whitby,4,1,E1
+E1,Ashton Utd,Lancaster City,8,3,E1
+E1,Stocksbridge P S,Hebburn Town,4,5,E1
+E1,Stocksbridge P S,Hebburn Town,4,5,E1
+E1,Leek Town,Ilkeston Town,7,2,E1
+E1,Stockton Town,Guiseley,5,0,E1
+E1,Hebburn Town,Workington,5,4,E1
+E1,Bamber Bridge,Stocksbridge P S,4,4,E1
+E1,Rushall Olympic,Hyde Utd,9,0,E1
+E1,Ilkeston Town,Cleethorpes Town,5,2,E1
+E1,FC United of Manchester,Morpeth Town,7,2,E1
+E1,Prescot Cables,Warrington Town,1,4,E1
+E1,Gainsborough,Whitby,3,1,E1
+E1,Leek Town,Hednesford,5,3,E1
+E1,Warrington Rylands,Ashton Utd,4,12,E1
+E1,Cleethorpes Town,Leek Town,2,6,E1
+E1,Stocksbridge P S,Gainsborough,6,1,E1
+E1,Guiseley,Prescot Cables,9,3,E1
+E1,Ashton Utd,Bamber Bridge,10,5,E1
+E1,Lancaster City,Warrington Rylands,3,4,E1
+E1,Morpeth Town,Hebburn Town,6,5,E1
+E1,Workington,FC United of Manchester,1,8,E1
+E1,Warrington Town,Rushall Olympic,4,5,E1
+E1,Hednesford,Ilkeston Town,5,4,E1
+E1,Hyde Utd,Leek Town,3,2,E1
+E1,Whitby,Stockton Town,2,10,E1
+E1,Warrington Rylands,Hednesford,4,3,E1
+E1,Prescot Cables,Morpeth Town,4,3,E1
+E1,Ilkeston Town,Whitby,7,2,E1
+E1,FC United of Manchester,Cleethorpes Town,6,5,E1
+E1,Bamber Bridge,Workington,7,7,E1
+E1,Guiseley,Stocksbridge P S,5,5,E1
+E1,Warrington Rylands,Prescot Cables,1,3,E1
+E1,Guiseley,Stocksbridge P S,5,5,E1
+E1,Whitby,Hebburn Town,6,5,E1
+E1,Hyde Utd,Whitby,4,4,E1
+E1,Bamber Bridge,Ilkeston Town,3,3,E1
+E1,Gainsborough,Lancaster City,2,2,E1
+E1,FC United of Manchester,Guiseley,4,7,E1
+E1,Stocksbridge P S,Warrington Rylands,2,4,E1
+E1,Prescot Cables,Leek Town,8,2,E1
+E1,Stocksbridge P S,Cleethorpes Town,5,4,E1
+E1,Bamber Bridge,Leek Town,6,3,E1
+E1,Gainsborough,Stockton Town,4,4,E1
+E1,Warrington Town,Ilkeston Town,2,1,E1
+E1,Hyde Utd,Guiseley,3,4,E1
+E1,Prescot Cables,Hednesford,2,1,E1
+E1,Ashton Utd,Stocksbridge P S,1,5,E1
+E1,Warrington Rylands,Gainsborough,2,6,E1
+E1,Hednesford,Workington,8,1,E1
+E1,Guiseley,Rushall Olympic,6,7,E1
+E1,Cleethorpes Town,Bamber Bridge,3,7,E1
+E1,Leek Town,Morpeth Town,8,5,E1
+E1,Hednesford,Warrington Town,8,1,E1
+E1,Cleethorpes Town,Hyde Utd,4,5,E1
+E1,Ashton Utd,Prescot Cables,4,5,E1
+E1,Warrington Rylands,Bamber Bridge,4,6,E1
+E1,Whitby,Stocksbridge P S,5,5,E1
+E1,Workington,Whitby,4,7,E1
+E1,Gainsborough,Ashton Utd,2,0,E1
+E1,Prescot Cables,Stockton Town,5,1,E1
+E1,FC United of Manchester,Leek Town,6,1,E1
+E1,Warrington Town,Cleethorpes Town,2,2,E1
+E1,Worksop Town,Guiseley,4,4,E1
+E1,Stockton Town,Guiseley,2,4,E1
+E1,Worksop Town,Ashton Utd,9,5,E1
+E1,Workington,Ashton Utd,2,6,E1
+E1,Warrington Rylands,Morpeth Town,5,1,E1
+E1,Bamber Bridge,Ilkeston Town,4,1,E1
+E1,Blyth Spartans,Worksop Town,5,5,E1
+E1,FC United of Manchester,Guiseley,4,8,E1
+E1,Gainsborough,Leek Town,5,2,E1
+E1,Macclesfield FC,Whitby,9,1,E1
+E1,Worksop Town,Basford Utd,3,8,E1
+E1,Prescot Cables,FC United of Manchester,8,1,E1
+E1,Morpeth Town,Workington,8,4,E1
+E1,Leek Town,Macclesfield FC,1,3,E1
+E1,Ilkeston Town,Matlock Town,9,2,E1
+E1,Hyde Utd,Warrington Rylands,4,9,E1
+E1,Hebburn Town,Stockton Town,3,6,E1
+E1,Worksop Town,Basford Utd,3,8,E1
+E1,Bamber Bridge,Ashton Utd,3,6,E1
+E1,Basford Utd,Hyde Utd,7,7,E1
+E1,Blyth Spartans,Guiseley,0,2,E1
+E1,Gainsborough,Hebburn Town,8,6,E1
+E1,Macclesfield FC,Ilkeston Town,10,3,E1
+E1,Matlock Town,Worksop Town,6,2,E1
+E1,Stockton Town,Morpeth Town,2,1,E1
+E1,Warrington Rylands,Lancaster City,5,3,E1
+E1,Mickleover FC,Leek Town,3,6,E1
+E1,FC United of Manchester,Whitby,6,2,E1
+E1,Hyde Utd,Matlock Town,4,0,E1
+E1,Worksop Town,Bamber Bridge,7,2,E1
+E1,Prescot Cables,Stockton Town,3,2,E1
+E1,Leek Town,Workington,6,2,E1
+E1,Ilkeston Town,FC United of Manchester,4,3,E1
+E1,Hebburn Town,Mickleover FC,5,5,E1
+E1,Ashton Utd,Gainsborough,4,0,E1
+E1,Basford Utd,Ashton Utd,7,8,E1
+E1,Gainsborough,Prescot Cables,2,7,E1
+E1,Hyde Utd,Blyth Spartans,7,3,E1
+E1,Leek Town,Bamber Bridge,4,4,E1
+E1,Matlock Town,Morpeth Town,5,2,E1
+E1,Mickleover FC,FC United of Manchester,5,6,E1
+E1,Warrington Rylands,Guiseley,3,6,E1
+E1,Ashton Utd,Hebburn Town,5,4,E1
+E1,Workington,Mickleover FC,6,2,E1
+E1,Whitby,Hyde Utd,3,6,E1
+E1,Prescot Cables,Basford Utd,7,3,E1
+E1,Blyth Spartans,Macclesfield FC,2,5,E1
+E1,Bamber Bridge,Gainsborough,3,4,E1
+E1,Worksop Town,Lancaster City,2,2,E1
+E1,Workington,Mickleover FC,6,2,E1
+E1,Gainsborough,Whitby,1,6,E1
+E1,Basford Utd,Workington,5,3,E1
+E1,Gainsborough,FC United of Manchester,5,5,E1
+E1,Hyde Utd,Prescot Cables,7,7,E1
+E1,Leek Town,Ashton Utd,1,3,E1
+E1,Matlock Town,Blyth Spartans,10,4,E1
+E1,Mickleover FC,Whitby,4,5,E1
+E1,Ilkeston Town,Lancaster City,6,6,E1
+E1,Guiseley,Mickleover FC,7,3,E1
+E1,Bamber Bridge,Matlock Town,5,3,E1
+E1,Ashton Utd,Stockton Town,2,4,E1
+E1,Blyth Spartans,Gainsborough,2,2,E1
+E1,Matlock Town,Guiseley,5,11,E1
+E1,Gainsborough,Bamber Bridge,3,2,E1
+E1,Hebburn Town,Ashton Utd,6,1,E1
+E1,Hyde Utd,Whitby,6,7,E1
+E1,Leek Town,Morpeth Town,6,5,E1
+E1,Workington,Blyth Spartans,12,3,E1
+E1,Basford Utd,Lancaster City,2,6,E1
+E1,Worksop Town,Mickleover FC,9,3,E1
+E1,Gainsborough,Ilkeston Town,5,2,E1
+E1,Hebburn Town,Leek Town,4,3,E1
+E1,Hyde Utd,Lancaster City,4,0,E1
+E1,Warrington Rylands,Gainsborough,0,3,E1
+E1,Hebburn Town,Hyde Utd,2,5,E1
+E1,Ashton Utd,Hyde Utd,8,5,E1
+E1,Basford Utd,Warrington Rylands,10,4,E1
+E1,Blyth Spartans,Ilkeston Town,1,9,E1
+E1,Gainsborough,Mickleover FC,3,0,E1
+E1,Leek Town,Guiseley,1,4,E1
+E1,Warrington Rylands,Leek Town,6,4,E1
+E1,Prescot Cables,Bamber Bridge,1,4,E1
+E1,Ilkeston Town,Stockton Town,7,3,E1
+E1,Matlock Town,Ashton Utd,4,3,E1
+E1,Ashton Utd,Lancaster City,6,5,E1
+E1,Basford Utd,Matlock Town,1,4,E1
+E1,FC United of Manchester,Bamber Bridge,3,5,E1
+E1,Leek Town,Whitby,7,0,E1
+E1,Morpeth Town,Prescot Cables,3,8,E1
+E1,Warrington Rylands,Macclesfield FC,5,6,E1
+E1,Workington,Hyde Utd,2,6,E1
+E1,Hyde Utd,Ilkeston Town,2,6,E1
+E1,Bamber Bridge,Workington,9,2,E1
+E1,Gainsborough,Warrington Rylands,3,6,E1
+E1,Matlock Town,Hebburn Town,6,1,E1
+E1,Worksop Town,Ashton Utd,4,7,E1
+E1,Matlock Town,Hebburn Town,6,1,E1
+E1,Prescot Cables,Warrington Rylands,1,7,E1
+E1,Blyth Spartans,Stockton Town,3,8,E1
+E1,Ashton Utd,Ilkeston Town,6,2,E1
+E1,Warrington Rylands,Matlock Town,5,2,E1
+E1,Mickleover FC,Bamber Bridge,4,6,E1
+E1,Leek Town,Prescot Cables,4,4,E1
+E1,FC United of Manchester,Hyde Utd,4,3,E1
+E1,Basford Utd,Blyth Spartans,7,1,E1
+E1,Stockton Town,Leek Town,6,0,E1
+E1,Morpeth Town,Guiseley,5,4,E1
+E1,Mickleover FC,Ashton Utd,5,2,E1
+E1,Prescot Cables,Gainsborough,6,2,E1
+E1,Macclesfield FC,Basford Utd,9,5,E1
+E1,Hyde Utd,Morpeth Town,6,7,E1
+E1,Prescot Cables,Ashton Utd,6,2,E1
+E1,Blyth Spartans,Ashton Utd,1,7,E1
+E1,Gainsborough,Matlock Town,1,6,E1
+E1,Leek Town,Lancaster City,3,7,E1
+E1,Stockton Town,Bamber Bridge,6,3,E1
+E1,Prescot Cables,Worksop Town,0,2,E1
+E1,Mickleover FC,Warrington Rylands,2,4,E1
+E1,Stockton Town,Bamber Bridge,6,3,E1
+E1,Prescot Cables,Worksop Town,0,2,E1
+E1,Mickleover FC,Warrington Rylands,2,4,E1
+E1,Leek Town,Lancaster City,3,7,E1
+E1,Stockton Town,Lancaster City,6,3,E1
+E1,Hebburn Town,Morpeth Town,3,2,E1
+E1,FC United of Manchester,Gainsborough,8,0,E1
+E1,Basford Utd,Gainsborough,6,1,E1
+E1,Macclesfield FC,FC United of Manchester,5,5,E1
+E1,Mickleover FC,Basford Utd,6,9,E1
+E1,FC United of Manchester,Warrington Rylands,2,5,E1
+E1,Ashton Utd,Macclesfield FC,7,7,E1
+E1,Warrington Rylands,Hebburn Town,6,3,E1
+E1,FC United of Manchester,Morpeth Town,2,4,E1
+E1,Macclesfield FC,Worksop Town,10,2,E1
+E1,Leek Town,Matlock Town,7,1,E1
+E1,Worksop Town,Leek Town,5,7,E1
+E1,Mickleover FC,Gainsborough,4,4,E1
+E1,Guiseley,Leek Town,1,6,E1
+E1,Guiseley,Whitby,5,4,E1
+E1,Ilkeston Town,Worksop Town,4,2,E1
+E1,Leek Town,Hyde Utd,5,0,E1
+E1,Ashton Utd,Basford Utd,5,7,E1
+E1,Mickleover FC,Macclesfield FC,4,13,E1
+E1,Blyth Spartans,Bamber Bridge,7,1,E1
+E1,Lancaster City,Worksop Town,4,3,E1
+E1,Basford Utd,Prescot Cables,4,4,E1
+E1,Ashton Utd,Guiseley,3,3,E1
+E1,Prescot Cables,Hyde Utd,4,4,E1
+E1,Morpeth Town,Lancaster City,0,2,E1
+E1,Prescot Cables,Hyde Utd,4,4,E1
+E1,Morpeth Town,Lancaster City,0,2,E1
+E1,Blyth Spartans,Matlock Town,1,2,E1
+E1,Worksop Town,Whitby,8,6,E1
+E1,Basford Utd,Stockton Town,13,2,E1
+E1,Guiseley,Prescot Cables,3,3,E1
+E1,Gainsborough,Workington,6,2,E1
+E1,Hyde Utd,Worksop Town,4,9,E1
+E1,Leek Town,FC United of Manchester,12,4,E1
+E1,Stockton Town,Ashton Utd,9,3,E1
+E1,Warrington Rylands,Blyth Spartans,7,4,E1
+E1,Morpeth Town,Mickleover FC,9,6,E1
+E1,Whitby,Gainsborough,4,6,E1
+E1,Hyde Utd,Ashton Utd,8,0,E1
+E1,Stockton Town,Matlock Town,4,3,E1
+E1,Matlock Town,Macclesfield FC,4,5,E1
+E1,Lancaster City,Hyde Utd,11,1,E1
+E1,Stockton Town,Workington,8,2,E1
+E1,Worksop Town,Morpeth Town,0,8,E1
+E1,Matlock Town,Warrington Rylands,10,3,E1
+E1,Macclesfield FC,Hebburn Town,9,2,E1
+E1,Lancaster City,Guiseley,2,6,E1
+E1,Leek Town,Warrington Rylands,7,3,E1
+E1,Bamber Bridge,Stockton Town,5,3,E1
+E1,Morpeth Town,Whitby,6,5,E1
+E1,Hebburn Town,Matlock Town,3,3,E1
+E1,FC United of Manchester,Lancaster City,1,8,E1
+E1,Warrington Rylands,Stockton Town,4,5,E1
+E1,Basford Utd,Bamber Bridge,5,6,E1
+E1,Ashton Utd,Worksop Town,3,4,E1
+E1,Worksop Town,Prescot Cables,4,7,E1
+E1,Lancaster City,Leek Town,12,7,E1
+E1,Warrington Rylands,Mickleover FC,7,5,E1
+E1,Hyde Utd,Hebburn Town,1,2,E1
+E1,Basford Utd,Guiseley,7,6,E1
+E1,Prescot Cables,Leek Town,3,2,E1
+E1,Blyth Spartans,Basford Utd,4,5,E1
+E1,Hyde Utd,FC United of Manchester,7,2,E1
+E1,Ilkeston Town,Ashton Utd,3,5,E1
+E1,Warrington Rylands,Bamber Bridge,5,2,E1
+E1,Leek Town,Ilkeston Town,4,6,E1
+E1,Warrington Rylands,Bamber Bridge,5,2,E1
+E1,Leek Town,Ilkeston Town,4,6,E1
+E1,Stockton Town,Blyth Spartans,5,1,E1
+E1,FC United of Manchester,Macclesfield FC,5,6,E1
+E1,Gainsborough,Basford Utd,11,2,E1
+E1,Guiseley,Morpeth Town,8,4,E1
+E1,Hebburn Town,Whitby,3,8,E1
+E1,Mickleover FC,Worksop Town,2,7,E1
+E1,Prescot Cables,Lancaster City,3,5,E1
+E1,Ashton Utd,Matlock Town,3,5,E1
+E1,Matlock Town,Workington,3,8,E1
+E1,Whitby,Ashton Utd,1,7,E1
+E1,Worksop Town,Ilkeston Town,4,8,E1
+E1,Whitby,Guiseley,3,5,E1
+E1,Bamber Bridge,Prescot Cables,3,5,E1
+E1,Basford Utd,Mickleover FC,9,5,E1
+E1,Blyth Spartans,Workington,5,6,E1
+E1,Hyde Utd,Leek Town,2,2,E1
+E1,Lancaster City,Stockton Town,9,4,E1
+E1,Macclesfield FC,Ashton Utd,11,5,E1
+E1,Matlock Town,Gainsborough,4,7,E1
+E1,Warrington Rylands,FC United of Manchester,2,9,E1
+E1,Ashton Utd,Morpeth Town,3,6,E1
+E1,Hebburn Town,Bamber Bridge,2,6,E1
+E1,Guiseley,Hyde Utd,6,3,E1
+E1,Gainsborough,Lancaster City,2,7,E1
+E1,FC United of Manchester,Basford Utd,8,7,E1
+E1,Bamber Bridge,Guiseley,3,7,E1
+E1,FC United of Manchester,Ashton Utd,5,1,E1
+E1,Mickleover FC,Lancaster City,1,8,E1
+E1,Hyde Utd,Stockton Town,4,8,E1
+E1,Leek Town,Gainsborough,4,5,E1
+E1,Ashton Utd,Workington,9,4,E1
+E1,Ilkeston Town,Macclesfield FC,2,8,E1
+E1,Ashton Utd,Bamber Bridge,3,7,E1
+E1,Hyde Utd,Basford Utd,2,7,E1
+E1,Gainsborough,Ashton Utd,4,4,E1
+E1,Matlock Town,Hyde Utd,8,3,E1
+E1,Matlock Town,Hyde Utd,8,3,E1
+E1,Stockton Town,Guiseley,3,6,E1
+E1,Matlock Town,Whitby,4,2,E1
+E1,Bamber Bridge,Hyde Utd,4,3,E1
+E1,Basford Utd,Leek Town,6,3,E1
+E1,Blyth Spartans,Hebburn Town,0,1,E1
+E1,FC United of Manchester,Worksop Town,5,2,E1
+E1,Gainsborough,Morpeth Town,3,3,E1
+E1,Macclesfield FC,Prescot Cables,8,5,E1
+E1,Mickleover FC,Ilkeston Town,4,12,E1
+E1,Warrington Rylands,Ashton Utd,6,2,E1
+E1,Worksop Town,Macclesfield FC,8,5,E1
+E1,Whitby,Bamber Bridge,2,0,E1
+E1,Hyde Utd,Mickleover FC,5,5,E1
+E1,Macclesfield FC,Marine,6,2,E1
+E1,Macclesfield FC,Worksop Town,8,4,E1
+E1,Marine,Warrington Rylands,3,4,E1
+E1,Ashton Utd,Marine,2,7,E1
+E1,Workington,Guiseley,8,5,E1
+E1,Warrington Rylands,Ilkeston Town,9,3,E1
+E1,Gainsborough,Radcliffe FC,10,4,E1
+E1,FC United of Manchester,Lancaster City,12,2,E1
+E1,Basford Utd,Bamber Bridge,3,7,E1
+E1,Atherton Collieries,Worksop Town,5,8,E1
+E1,Guiseley,Worksop Town,7,3,E1
+E1,Bamber Bridge,Macclesfield FC,6,1,E1
+E1,Matlock Town,Ashton Utd,2,6,E1
+E1,Hyde Utd,Matlock Town,5,4,E1
+E1,Bamber Bridge,Whitby,3,5,E1
+E1,Bradford P A,Gainsborough,3,4,E1
+E1,Ilkeston Town,Morpeth Town,8,2,E1
+E1,Macclesfield FC,Workington,6,3,E1
+E1,Marine,Atherton Collieries,3,3,E1
+E1,Radcliffe FC,Basford Utd,3,6,E1
+E1,Stafford Rangers,Ashton Utd,9,7,E1
+E1,Worksop Town,Warrington Rylands,6,6,E1
+E1,Bamber Bridge,Ilkeston Town,9,3,E1
+E1,Atherton Collieries,Macclesfield FC,3,9,E1
+E1,Matlock Town,Gainsborough,0,4,E1
+E1,Workington,Marine,3,6,E1
+E1,Whitby,Radcliffe FC,2,4,E1
+E1,Gainsborough,Hyde Utd,6,5,E1
+E1,Ashton Utd,Ilkeston Town,6,4,E1
+E1,Bamber Bridge,Ashton Utd,7,5,E1
+E1,Worksop Town,Workington,6,4,E1
+E1,Stafford Rangers,Whitby,1,3,E1
+E1,Radcliffe FC,Matlock Town,5,2,E1
+E1,Marine,Morpeth Town,5,3,E1
+E1,Ilkeston Town,Atherton Collieries,5,4,E1
+E1,Hyde Utd,FC United of Manchester,2,6,E1
+E1,Guiseley,Warrington Rylands,4,6,E1
+E1,Bradford P A,Basford Utd,4,11,E1
+E1,Workington,Atherton Collieries,5,4,E1
+E1,Basford Utd,Worksop Town,8,11,E1
+E1,Bradford P A,Radcliffe FC,5,10,E1
+E1,FC United of Manchester,Ashton Utd,10,5,E1
+E1,Gainsborough,Stafford Rangers,6,7,E1
+E1,Matlock Town,Ilkeston Town,6,1,E1
+E1,Bamber Bridge,Gainsborough,5,0,E1
+E1,Worksop Town,Hyde Utd,5,6,E1
+E1,Stafford Rangers,Workington,4,5,E1
+E1,Macclesfield FC,FC United of Manchester,11,6,E1
+E1,Ilkeston Town,Bradford P A,8,6,E1
+E1,Guiseley,Lancaster City,6,6,E1
+E1,Atherton Collieries,Basford Utd,8,3,E1
+E1,Matlock Town,Marine,5,5,E1
+E1,Ashton Utd,Whitby,2,4,E1
+E1,Whitby,FC United of Manchester,6,4,E1
+E1,Ashton Utd,Macclesfield FC,0,0,E1
+E1,Gainsborough,Workington,1,9,E1
+E1,Guiseley,Ilkeston Town,7,4,E1
+E1,Matlock Town,Whitby,4,2,E1
+E1,Radcliffe FC,Ashton Utd,10,7,E1
+E1,Radcliffe FC,Morpeth Town,13,4,E1
+E1,Stafford Rangers,Macclesfield FC,2,4,E1
+E1,Workington,Atherton Collieries,5,4,E1
+E1,Basford Utd,Worksop Town,8,11,E1
+E1,Bradford P A,Radcliffe FC,5,10,E1
+E1,FC United of Manchester,Ashton Utd,10,5,E1
+E1,Gainsborough,Stafford Rangers,6,7,E1
+E1,Matlock Town,Ilkeston Town,6,1,E1
+E1,Bamber Bridge,Gainsborough,5,0,E1
+E1,Worksop Town,Hyde Utd,5,6,E1
+E1,Stafford Rangers,Workington,4,5,E1
+E1,Macclesfield FC,FC United of Manchester,11,6,E1
+E1,Ilkeston Town,Bradford P A,8,6,E1
+E1,Guiseley,Lancaster City,6,6,E1
+E1,Atherton Collieries,Basford Utd,8,3,E1
+E1,Matlock Town,Marine,5,5,E1
+E1,Ashton Utd,Whitby,2,4,E1
+E1,Whitby,FC United of Manchester,6,4,E1
+E1,Ashton Utd,Macclesfield FC,0,0,E1
+E1,Gainsborough,Workington,1,9,E1
+E1,Guiseley,Ilkeston Town,7,4,E1
+E1,Matlock Town,Whitby,4,2,E1
+E1,Radcliffe FC,Ashton Utd,10,7,E1
+E1,Radcliffe FC,Morpeth Town,13,4,E1
+E1,Stafford Rangers,Macclesfield FC,2,4,E1
+E1,Bamber Bridge,Atherton Collieries,7,1,E1
+E1,Ashton Utd,Worksop Town,11,3,E1
+E1,Bradford P A,Warrington Rylands,5,8,E1
+E1,Guiseley,Radcliffe FC,6,8,E1
+E1,Matlock Town,Lancaster City,4,11,E1
+E1,Workington,Hyde Utd,9,3,E1
+E1,Ashton Utd,Lancaster City,5,7,E1
+E1,FC United of Manchester,Warrington Rylands,4,2,E1
+E1,Atherton Collieries,Guiseley,3,4,E1
+E1,Whitby,Lancaster City,7,6,E1
+E1,Ilkeston Town,Radcliffe FC,6,8,E1
+E1,Marine,Bradford P A,7,6,E1
+E1,Stafford Rangers,Guiseley,6,1,E1
+E1,FC United of Manchester,Warrington Rylands,3,6,E1
+E1,Bradford P A,Ashton Utd,7,3,E1
+E1,Gainsborough,Basford Utd,5,3,E1
+E1,Hyde Utd,Stafford Rangers,5,8,E1
+E1,Radcliffe FC,Marine,12,4,E1
+E1,Radcliffe FC,Atherton Collieries,11,6,E1
+E1,Ilkeston Town,Lancaster City,4,3,E1
+E1,Basford Utd,Hyde Utd,7,3,E1
+E1,Atherton Collieries,Gainsborough,3,3,E1
+E1,Ashton Utd,Guiseley,7,5,E1
+E1,FC United of Manchester,Radcliffe FC,8,11,E1
+E1,Hyde Utd,Workington,5,4,E1
+E1,Ilkeston Town,Marine,2,3,E1
+E1,Radcliffe FC,Guiseley,11,3,E1
+E1,Worksop Town,Ashton Utd,6,7,E1
+E1,FC United of Manchester,Marine,6,2,E1
