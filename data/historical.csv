@@ -1,529 +1,529 @@
 ﻿Div,HomeTeam,AwayTeam,HC,AC,source_file
-E1,Hyde Utd,Rushall Olympic,5,6,E1
-E1,Ashton Utd,Warrington Rylands,5,7,E1
-E1,Cleethorpes Town,Ilkeston Town,7,4,E1
-E1,Hednesford,Leek Town,5,5,E1
-E1,Morpeth Town,FC United of Manchester,0,4,E1
-E1,Stocksbridge P S,Bamber Bridge,5,6,E1
-E1,Hebburn Town,Whitby,4,4,E1
-E1,Leek Town,Hyde Utd,7,2,E1
-E1,Prescot Cables,Whitby,4,2,E1
-E1,Warrington Rylands,Guiseley,3,1,E1
-E1,Gainsborough,Morpeth Town,6,5,E1
-E1,FC United of Manchester,Warrington Town,8,4,E1
-E1,Bamber Bridge,Hyde Utd,8,3,E1
-E1,Bamber Bridge,Warrington Town,6,4,E1
-E1,FC United of Manchester,Workington,9,4,E1
-E1,Whitby,Ilkeston Town,2,5,E1
-E1,Leek Town,FC United of Manchester,5,4,E1
-E1,Ilkeston Town,Morpeth Town,6,3,E1
-E1,Hyde Utd,Ilkeston Town,2,7,E1
-E1,Stocksbridge P S,Guiseley,3,7,E1
-E1,FC United of Manchester,Ashton Utd,6,5,E1
-E1,Gainsborough,Cleethorpes Town,6,5,E1
-E1,Rushall Olympic,Hednesford,7,5,E1
-E1,Warrington Town,Leek Town,5,5,E1
-E1,Hednesford,FC United of Manchester,3,6,E1
-E1,Cleethorpes Town,Workington,6,1,E1
-E1,Leek Town,Stocksbridge P S,4,5,E1
-E1,Ashton Utd,Hyde Utd,4,7,E1
-E1,Hebburn Town,Guiseley,4,7,E1
-E1,Hyde Utd,Cleethorpes Town,3,5,E1
-E1,Bamber Bridge,Warrington Rylands,5,6,E1
-E1,FC United of Manchester,Lancaster City,2,16,E1
-E1,Gainsborough,Ilkeston Town,3,2,E1
-E1,Rushall Olympic,Leek Town,5,3,E1
-E1,Warrington Town,Hednesford,6,8,E1
-E1,Workington,Stockton Town,4,8,E1
-E1,Prescot Cables,Ashton Utd,2,3,E1
-E1,Ilkeston Town,Hednesford,7,3,E1
-E1,Prescot Cables,Guiseley,11,5,E1
-E1,Warrington Rylands,Lancaster City,3,16,E1
-E1,Bamber Bridge,Ashton Utd,6,6,E1
-E1,Prescot Cables,Guiseley,11,5,E1
-E1,Ilkeston Town,Hednesford,7,3,E1
-E1,Stocksbridge P S,FC United of Manchester,4,2,E1
-E1,Guiseley,Leek Town,2,6,E1
-E1,Hednesford,Warrington Rylands,6,3,E1
-E1,Hyde Utd,Hebburn Town,5,3,E1
-E1,Stocksbridge P S,Stockton Town,2,8,E1
-E1,Warrington Town,Gainsborough,3,3,E1
-E1,Stockton Town,Leek Town,10,4,E1
-E1,Stocksbridge P S,Lancaster City,3,2,E1
-E1,FC United of Manchester,Ilkeston Town,5,7,E1
-E1,Bamber Bridge,Prescot Cables,8,4,E1
-E1,Ashton Utd,Hednesford,8,4,E1
-E1,Gainsborough,Hebburn Town,8,3,E1
-E1,Guiseley,Ashton Utd,7,2,E1
-E1,Hebburn Town,Bamber Bridge,7,2,E1
-E1,Hednesford,Cleethorpes Town,5,7,E1
-E1,Hyde Utd,FC United of Manchester,5,3,E1
-E1,Prescot Cables,Gainsborough,7,6,E1
-E1,Hednesford,Bamber Bridge,2,3,E1
-E1,Warrington Rylands,Whitby,7,1,E1
-E1,Hyde Utd,Warrington Town,11,4,E1
-E1,Guiseley,Cleethorpes Town,9,9,E1
-E1,Ashton Utd,Morpeth Town,4,5,E1
-E1,Morpeth Town,Stocksbridge P S,5,3,E1
-E1,Hednesford,Hyde Utd,5,5,E1
-E1,Leek Town,Ashton Utd,2,5,E1
-E1,Warrington Town,FC United of Manchester,3,5,E1
-E1,Gainsborough,Rushall Olympic,10,5,E1
-E1,Whitby,Guiseley,6,5,E1
-E1,Warrington Town,Stockton Town,8,7,E1
-E1,Prescot Cables,Hebburn Town,4,5,E1
-E1,Ilkeston Town,Ashton Utd,6,7,E1
-E1,FC United of Manchester,Warrington Rylands,5,10,E1
-E1,Stocksbridge P S,Rushall Olympic,6,1,E1
-E1,Ashton Utd,Cleethorpes Town,14,1,E1
-E1,Guiseley,Hednesford,2,5,E1
-E1,Hebburn Town,Warrington Town,3,2,E1
-E1,Hyde Utd,Morpeth Town,7,9,E1
-E1,Rushall Olympic,Prescot Cables,4,8,E1
-E1,Stocksbridge P S,Workington,1,2,E1
-E1,Stockton Town,Ilkeston Town,5,4,E1
-E1,Warrington Rylands,Leek Town,1,3,E1
-E1,Warrington Town,Ashton Utd,5,2,E1
-E1,Prescot Cables,Hyde Utd,7,6,E1
-E1,Hednesford,Stockton Town,0,5,E1
-E1,Workington,Gainsborough,2,2,E1
-E1,Hyde Utd,Stocksbridge P S,3,7,E1
-E1,FC United of Manchester,Rushall Olympic,4,2,E1
-E1,Gainsborough,FC United of Manchester,3,6,E1
-E1,Ilkeston Town,Warrington Rylands,7,2,E1
-E1,Lancaster City,Hednesford,4,1,E1
-E1,Prescot Cables,Stocksbridge P S,7,3,E1
-E1,Rushall Olympic,Cleethorpes Town,3,6,E1
-E1,Stockton Town,Ashton Utd,8,2,E1
-E1,Whitby,Hednesford,0,5,E1
-E1,Morpeth Town,Cleethorpes Town,5,3,E1
-E1,Ashton Utd,Hebburn Town,1,6,E1
-E1,Guiseley,Ilkeston Town,2,3,E1
-E1,Stocksbridge P S,Warrington Town,3,7,E1
-E1,Cleethorpes Town,Prescot Cables,9,6,E1
-E1,Bamber Bridge,Rushall Olympic,3,3,E1
-E1,Ashton Utd,Whitby,4,4,E1
-E1,FC United of Manchester,Hebburn Town,7,5,E1
-E1,Hyde Utd,Bamber Bridge,3,3,E1
-E1,Guiseley,Warrington Rylands,2,7,E1
-E1,Whitby,Prescot Cables,3,4,E1
-E1,Ilkeston Town,Workington,4,2,E1
-E1,Hebburn Town,Warrington Rylands,6,6,E1
-E1,Prescot Cables,FC United of Manchester,5,10,E1
-E1,Stocksbridge P S,Whitby,4,1,E1
-E1,Ashton Utd,Lancaster City,8,3,E1
-E1,Stocksbridge P S,Hebburn Town,4,5,E1
-E1,Stocksbridge P S,Hebburn Town,4,5,E1
-E1,Leek Town,Ilkeston Town,7,2,E1
-E1,Stockton Town,Guiseley,5,0,E1
-E1,Hebburn Town,Workington,5,4,E1
-E1,Bamber Bridge,Stocksbridge P S,4,4,E1
-E1,Rushall Olympic,Hyde Utd,9,0,E1
-E1,Ilkeston Town,Cleethorpes Town,5,2,E1
-E1,FC United of Manchester,Morpeth Town,7,2,E1
-E1,Prescot Cables,Warrington Town,1,4,E1
-E1,Gainsborough,Whitby,3,1,E1
-E1,Leek Town,Hednesford,5,3,E1
-E1,Warrington Rylands,Ashton Utd,4,12,E1
-E1,Cleethorpes Town,Leek Town,2,6,E1
-E1,Stocksbridge P S,Gainsborough,6,1,E1
-E1,Guiseley,Prescot Cables,9,3,E1
-E1,Ashton Utd,Bamber Bridge,10,5,E1
-E1,Lancaster City,Warrington Rylands,3,4,E1
-E1,Morpeth Town,Hebburn Town,6,5,E1
-E1,Workington,FC United of Manchester,1,8,E1
-E1,Warrington Town,Rushall Olympic,4,5,E1
-E1,Hednesford,Ilkeston Town,5,4,E1
-E1,Hyde Utd,Leek Town,3,2,E1
-E1,Whitby,Stockton Town,2,10,E1
-E1,Warrington Rylands,Hednesford,4,3,E1
-E1,Prescot Cables,Morpeth Town,4,3,E1
-E1,Ilkeston Town,Whitby,7,2,E1
-E1,FC United of Manchester,Cleethorpes Town,6,5,E1
-E1,Bamber Bridge,Workington,7,7,E1
-E1,Guiseley,Stocksbridge P S,5,5,E1
-E1,Warrington Rylands,Prescot Cables,1,3,E1
-E1,Guiseley,Stocksbridge P S,5,5,E1
-E1,Whitby,Hebburn Town,6,5,E1
-E1,Hyde Utd,Whitby,4,4,E1
-E1,Bamber Bridge,Ilkeston Town,3,3,E1
-E1,Gainsborough,Lancaster City,2,2,E1
-E1,FC United of Manchester,Guiseley,4,7,E1
-E1,Stocksbridge P S,Warrington Rylands,2,4,E1
-E1,Prescot Cables,Leek Town,8,2,E1
-E1,Stocksbridge P S,Cleethorpes Town,5,4,E1
-E1,Bamber Bridge,Leek Town,6,3,E1
-E1,Gainsborough,Stockton Town,4,4,E1
-E1,Warrington Town,Ilkeston Town,2,1,E1
-E1,Hyde Utd,Guiseley,3,4,E1
-E1,Prescot Cables,Hednesford,2,1,E1
-E1,Ashton Utd,Stocksbridge P S,1,5,E1
-E1,Warrington Rylands,Gainsborough,2,6,E1
-E1,Hednesford,Workington,8,1,E1
-E1,Guiseley,Rushall Olympic,6,7,E1
-E1,Cleethorpes Town,Bamber Bridge,3,7,E1
-E1,Leek Town,Morpeth Town,8,5,E1
-E1,Hednesford,Warrington Town,8,1,E1
-E1,Cleethorpes Town,Hyde Utd,4,5,E1
-E1,Ashton Utd,Prescot Cables,4,5,E1
-E1,Warrington Rylands,Bamber Bridge,4,6,E1
-E1,Whitby,Stocksbridge P S,5,5,E1
-E1,Workington,Whitby,4,7,E1
-E1,Gainsborough,Ashton Utd,2,0,E1
-E1,Prescot Cables,Stockton Town,5,1,E1
-E1,FC United of Manchester,Leek Town,6,1,E1
-E1,Warrington Town,Cleethorpes Town,2,2,E1
-E1,Worksop Town,Guiseley,4,4,E1
-E1,Stockton Town,Guiseley,2,4,E1
-E1,Worksop Town,Ashton Utd,9,5,E1
-E1,Workington,Ashton Utd,2,6,E1
-E1,Warrington Rylands,Morpeth Town,5,1,E1
-E1,Bamber Bridge,Ilkeston Town,4,1,E1
-E1,Blyth Spartans,Worksop Town,5,5,E1
-E1,FC United of Manchester,Guiseley,4,8,E1
-E1,Gainsborough,Leek Town,5,2,E1
-E1,Macclesfield FC,Whitby,9,1,E1
-E1,Worksop Town,Basford Utd,3,8,E1
-E1,Prescot Cables,FC United of Manchester,8,1,E1
-E1,Morpeth Town,Workington,8,4,E1
-E1,Leek Town,Macclesfield FC,1,3,E1
-E1,Ilkeston Town,Matlock Town,9,2,E1
-E1,Hyde Utd,Warrington Rylands,4,9,E1
-E1,Hebburn Town,Stockton Town,3,6,E1
-E1,Worksop Town,Basford Utd,3,8,E1
-E1,Bamber Bridge,Ashton Utd,3,6,E1
-E1,Basford Utd,Hyde Utd,7,7,E1
-E1,Blyth Spartans,Guiseley,0,2,E1
-E1,Gainsborough,Hebburn Town,8,6,E1
-E1,Macclesfield FC,Ilkeston Town,10,3,E1
-E1,Matlock Town,Worksop Town,6,2,E1
-E1,Stockton Town,Morpeth Town,2,1,E1
-E1,Warrington Rylands,Lancaster City,5,3,E1
-E1,Mickleover FC,Leek Town,3,6,E1
-E1,FC United of Manchester,Whitby,6,2,E1
-E1,Hyde Utd,Matlock Town,4,0,E1
-E1,Worksop Town,Bamber Bridge,7,2,E1
-E1,Prescot Cables,Stockton Town,3,2,E1
-E1,Leek Town,Workington,6,2,E1
-E1,Ilkeston Town,FC United of Manchester,4,3,E1
-E1,Hebburn Town,Mickleover FC,5,5,E1
-E1,Ashton Utd,Gainsborough,4,0,E1
-E1,Basford Utd,Ashton Utd,7,8,E1
-E1,Gainsborough,Prescot Cables,2,7,E1
-E1,Hyde Utd,Blyth Spartans,7,3,E1
-E1,Leek Town,Bamber Bridge,4,4,E1
-E1,Matlock Town,Morpeth Town,5,2,E1
-E1,Mickleover FC,FC United of Manchester,5,6,E1
-E1,Warrington Rylands,Guiseley,3,6,E1
-E1,Ashton Utd,Hebburn Town,5,4,E1
-E1,Workington,Mickleover FC,6,2,E1
-E1,Whitby,Hyde Utd,3,6,E1
-E1,Prescot Cables,Basford Utd,7,3,E1
-E1,Blyth Spartans,Macclesfield FC,2,5,E1
-E1,Bamber Bridge,Gainsborough,3,4,E1
-E1,Worksop Town,Lancaster City,2,2,E1
-E1,Workington,Mickleover FC,6,2,E1
-E1,Gainsborough,Whitby,1,6,E1
-E1,Basford Utd,Workington,5,3,E1
-E1,Gainsborough,FC United of Manchester,5,5,E1
-E1,Hyde Utd,Prescot Cables,7,7,E1
-E1,Leek Town,Ashton Utd,1,3,E1
-E1,Matlock Town,Blyth Spartans,10,4,E1
-E1,Mickleover FC,Whitby,4,5,E1
-E1,Ilkeston Town,Lancaster City,6,6,E1
-E1,Guiseley,Mickleover FC,7,3,E1
-E1,Bamber Bridge,Matlock Town,5,3,E1
-E1,Ashton Utd,Stockton Town,2,4,E1
-E1,Blyth Spartans,Gainsborough,2,2,E1
-E1,Matlock Town,Guiseley,5,11,E1
-E1,Gainsborough,Bamber Bridge,3,2,E1
-E1,Hebburn Town,Ashton Utd,6,1,E1
-E1,Hyde Utd,Whitby,6,7,E1
-E1,Leek Town,Morpeth Town,6,5,E1
-E1,Workington,Blyth Spartans,12,3,E1
-E1,Basford Utd,Lancaster City,2,6,E1
-E1,Worksop Town,Mickleover FC,9,3,E1
-E1,Gainsborough,Ilkeston Town,5,2,E1
-E1,Hebburn Town,Leek Town,4,3,E1
-E1,Hyde Utd,Lancaster City,4,0,E1
-E1,Warrington Rylands,Gainsborough,0,3,E1
-E1,Hebburn Town,Hyde Utd,2,5,E1
-E1,Ashton Utd,Hyde Utd,8,5,E1
-E1,Basford Utd,Warrington Rylands,10,4,E1
-E1,Blyth Spartans,Ilkeston Town,1,9,E1
-E1,Gainsborough,Mickleover FC,3,0,E1
-E1,Leek Town,Guiseley,1,4,E1
-E1,Warrington Rylands,Leek Town,6,4,E1
-E1,Prescot Cables,Bamber Bridge,1,4,E1
-E1,Ilkeston Town,Stockton Town,7,3,E1
-E1,Matlock Town,Ashton Utd,4,3,E1
-E1,Ashton Utd,Lancaster City,6,5,E1
-E1,Basford Utd,Matlock Town,1,4,E1
-E1,FC United of Manchester,Bamber Bridge,3,5,E1
-E1,Leek Town,Whitby,7,0,E1
-E1,Morpeth Town,Prescot Cables,3,8,E1
-E1,Warrington Rylands,Macclesfield FC,5,6,E1
-E1,Workington,Hyde Utd,2,6,E1
-E1,Hyde Utd,Ilkeston Town,2,6,E1
-E1,Bamber Bridge,Workington,9,2,E1
-E1,Gainsborough,Warrington Rylands,3,6,E1
-E1,Matlock Town,Hebburn Town,6,1,E1
-E1,Worksop Town,Ashton Utd,4,7,E1
-E1,Matlock Town,Hebburn Town,6,1,E1
-E1,Prescot Cables,Warrington Rylands,1,7,E1
-E1,Blyth Spartans,Stockton Town,3,8,E1
-E1,Ashton Utd,Ilkeston Town,6,2,E1
-E1,Warrington Rylands,Matlock Town,5,2,E1
-E1,Mickleover FC,Bamber Bridge,4,6,E1
-E1,Leek Town,Prescot Cables,4,4,E1
-E1,FC United of Manchester,Hyde Utd,4,3,E1
-E1,Basford Utd,Blyth Spartans,7,1,E1
-E1,Stockton Town,Leek Town,6,0,E1
-E1,Morpeth Town,Guiseley,5,4,E1
-E1,Mickleover FC,Ashton Utd,5,2,E1
-E1,Prescot Cables,Gainsborough,6,2,E1
-E1,Macclesfield FC,Basford Utd,9,5,E1
-E1,Hyde Utd,Morpeth Town,6,7,E1
-E1,Prescot Cables,Ashton Utd,6,2,E1
-E1,Blyth Spartans,Ashton Utd,1,7,E1
-E1,Gainsborough,Matlock Town,1,6,E1
-E1,Leek Town,Lancaster City,3,7,E1
-E1,Stockton Town,Bamber Bridge,6,3,E1
-E1,Prescot Cables,Worksop Town,0,2,E1
-E1,Mickleover FC,Warrington Rylands,2,4,E1
-E1,Stockton Town,Bamber Bridge,6,3,E1
-E1,Prescot Cables,Worksop Town,0,2,E1
-E1,Mickleover FC,Warrington Rylands,2,4,E1
-E1,Leek Town,Lancaster City,3,7,E1
-E1,Stockton Town,Lancaster City,6,3,E1
-E1,Hebburn Town,Morpeth Town,3,2,E1
-E1,FC United of Manchester,Gainsborough,8,0,E1
-E1,Basford Utd,Gainsborough,6,1,E1
-E1,Macclesfield FC,FC United of Manchester,5,5,E1
-E1,Mickleover FC,Basford Utd,6,9,E1
-E1,FC United of Manchester,Warrington Rylands,2,5,E1
-E1,Ashton Utd,Macclesfield FC,7,7,E1
-E1,Warrington Rylands,Hebburn Town,6,3,E1
-E1,FC United of Manchester,Morpeth Town,2,4,E1
-E1,Macclesfield FC,Worksop Town,10,2,E1
-E1,Leek Town,Matlock Town,7,1,E1
-E1,Worksop Town,Leek Town,5,7,E1
-E1,Mickleover FC,Gainsborough,4,4,E1
-E1,Guiseley,Leek Town,1,6,E1
-E1,Guiseley,Whitby,5,4,E1
-E1,Ilkeston Town,Worksop Town,4,2,E1
-E1,Leek Town,Hyde Utd,5,0,E1
-E1,Ashton Utd,Basford Utd,5,7,E1
-E1,Mickleover FC,Macclesfield FC,4,13,E1
-E1,Blyth Spartans,Bamber Bridge,7,1,E1
-E1,Lancaster City,Worksop Town,4,3,E1
-E1,Basford Utd,Prescot Cables,4,4,E1
-E1,Ashton Utd,Guiseley,3,3,E1
-E1,Prescot Cables,Hyde Utd,4,4,E1
-E1,Morpeth Town,Lancaster City,0,2,E1
-E1,Prescot Cables,Hyde Utd,4,4,E1
-E1,Morpeth Town,Lancaster City,0,2,E1
-E1,Blyth Spartans,Matlock Town,1,2,E1
-E1,Worksop Town,Whitby,8,6,E1
-E1,Basford Utd,Stockton Town,13,2,E1
-E1,Guiseley,Prescot Cables,3,3,E1
-E1,Gainsborough,Workington,6,2,E1
-E1,Hyde Utd,Worksop Town,4,9,E1
-E1,Leek Town,FC United of Manchester,12,4,E1
-E1,Stockton Town,Ashton Utd,9,3,E1
-E1,Warrington Rylands,Blyth Spartans,7,4,E1
-E1,Morpeth Town,Mickleover FC,9,6,E1
-E1,Whitby,Gainsborough,4,6,E1
-E1,Hyde Utd,Ashton Utd,8,0,E1
-E1,Stockton Town,Matlock Town,4,3,E1
-E1,Matlock Town,Macclesfield FC,4,5,E1
-E1,Lancaster City,Hyde Utd,11,1,E1
-E1,Stockton Town,Workington,8,2,E1
-E1,Worksop Town,Morpeth Town,0,8,E1
-E1,Matlock Town,Warrington Rylands,10,3,E1
-E1,Macclesfield FC,Hebburn Town,9,2,E1
-E1,Lancaster City,Guiseley,2,6,E1
-E1,Leek Town,Warrington Rylands,7,3,E1
-E1,Bamber Bridge,Stockton Town,5,3,E1
-E1,Morpeth Town,Whitby,6,5,E1
-E1,Hebburn Town,Matlock Town,3,3,E1
-E1,FC United of Manchester,Lancaster City,1,8,E1
-E1,Warrington Rylands,Stockton Town,4,5,E1
-E1,Basford Utd,Bamber Bridge,5,6,E1
-E1,Ashton Utd,Worksop Town,3,4,E1
-E1,Worksop Town,Prescot Cables,4,7,E1
-E1,Lancaster City,Leek Town,12,7,E1
-E1,Warrington Rylands,Mickleover FC,7,5,E1
-E1,Hyde Utd,Hebburn Town,1,2,E1
-E1,Basford Utd,Guiseley,7,6,E1
-E1,Prescot Cables,Leek Town,3,2,E1
-E1,Blyth Spartans,Basford Utd,4,5,E1
-E1,Hyde Utd,FC United of Manchester,7,2,E1
-E1,Ilkeston Town,Ashton Utd,3,5,E1
-E1,Warrington Rylands,Bamber Bridge,5,2,E1
-E1,Leek Town,Ilkeston Town,4,6,E1
-E1,Warrington Rylands,Bamber Bridge,5,2,E1
-E1,Leek Town,Ilkeston Town,4,6,E1
-E1,Stockton Town,Blyth Spartans,5,1,E1
-E1,FC United of Manchester,Macclesfield FC,5,6,E1
-E1,Gainsborough,Basford Utd,11,2,E1
-E1,Guiseley,Morpeth Town,8,4,E1
-E1,Hebburn Town,Whitby,3,8,E1
-E1,Mickleover FC,Worksop Town,2,7,E1
-E1,Prescot Cables,Lancaster City,3,5,E1
-E1,Ashton Utd,Matlock Town,3,5,E1
-E1,Matlock Town,Workington,3,8,E1
-E1,Whitby,Ashton Utd,1,7,E1
-E1,Worksop Town,Ilkeston Town,4,8,E1
-E1,Whitby,Guiseley,3,5,E1
-E1,Bamber Bridge,Prescot Cables,3,5,E1
-E1,Basford Utd,Mickleover FC,9,5,E1
-E1,Blyth Spartans,Workington,5,6,E1
-E1,Hyde Utd,Leek Town,2,2,E1
-E1,Lancaster City,Stockton Town,9,4,E1
-E1,Macclesfield FC,Ashton Utd,11,5,E1
-E1,Matlock Town,Gainsborough,4,7,E1
-E1,Warrington Rylands,FC United of Manchester,2,9,E1
-E1,Ashton Utd,Morpeth Town,3,6,E1
-E1,Hebburn Town,Bamber Bridge,2,6,E1
-E1,Guiseley,Hyde Utd,6,3,E1
-E1,Gainsborough,Lancaster City,2,7,E1
-E1,FC United of Manchester,Basford Utd,8,7,E1
-E1,Bamber Bridge,Guiseley,3,7,E1
-E1,FC United of Manchester,Ashton Utd,5,1,E1
-E1,Mickleover FC,Lancaster City,1,8,E1
-E1,Hyde Utd,Stockton Town,4,8,E1
-E1,Leek Town,Gainsborough,4,5,E1
-E1,Ashton Utd,Workington,9,4,E1
-E1,Ilkeston Town,Macclesfield FC,2,8,E1
-E1,Ashton Utd,Bamber Bridge,3,7,E1
-E1,Hyde Utd,Basford Utd,2,7,E1
-E1,Gainsborough,Ashton Utd,4,4,E1
-E1,Matlock Town,Hyde Utd,8,3,E1
-E1,Matlock Town,Hyde Utd,8,3,E1
-E1,Stockton Town,Guiseley,3,6,E1
-E1,Matlock Town,Whitby,4,2,E1
-E1,Bamber Bridge,Hyde Utd,4,3,E1
-E1,Basford Utd,Leek Town,6,3,E1
-E1,Blyth Spartans,Hebburn Town,0,1,E1
-E1,FC United of Manchester,Worksop Town,5,2,E1
-E1,Gainsborough,Morpeth Town,3,3,E1
-E1,Macclesfield FC,Prescot Cables,8,5,E1
-E1,Mickleover FC,Ilkeston Town,4,12,E1
-E1,Warrington Rylands,Ashton Utd,6,2,E1
-E1,Worksop Town,Macclesfield FC,8,5,E1
-E1,Whitby,Bamber Bridge,2,0,E1
-E1,Hyde Utd,Mickleover FC,5,5,E1
-E1,Macclesfield FC,Marine,6,2,E1
-E1,Macclesfield FC,Worksop Town,8,4,E1
-E1,Marine,Warrington Rylands,3,4,E1
-E1,Ashton Utd,Marine,2,7,E1
-E1,Workington,Guiseley,8,5,E1
-E1,Warrington Rylands,Ilkeston Town,9,3,E1
-E1,Gainsborough,Radcliffe FC,10,4,E1
-E1,FC United of Manchester,Lancaster City,12,2,E1
-E1,Basford Utd,Bamber Bridge,3,7,E1
-E1,Atherton Collieries,Worksop Town,5,8,E1
-E1,Guiseley,Worksop Town,7,3,E1
-E1,Bamber Bridge,Macclesfield FC,6,1,E1
-E1,Matlock Town,Ashton Utd,2,6,E1
-E1,Hyde Utd,Matlock Town,5,4,E1
-E1,Bamber Bridge,Whitby,3,5,E1
-E1,Bradford P A,Gainsborough,3,4,E1
-E1,Ilkeston Town,Morpeth Town,8,2,E1
-E1,Macclesfield FC,Workington,6,3,E1
-E1,Marine,Atherton Collieries,3,3,E1
-E1,Radcliffe FC,Basford Utd,3,6,E1
-E1,Stafford Rangers,Ashton Utd,9,7,E1
-E1,Worksop Town,Warrington Rylands,6,6,E1
-E1,Bamber Bridge,Ilkeston Town,9,3,E1
-E1,Atherton Collieries,Macclesfield FC,3,9,E1
-E1,Matlock Town,Gainsborough,0,4,E1
-E1,Workington,Marine,3,6,E1
-E1,Whitby,Radcliffe FC,2,4,E1
-E1,Gainsborough,Hyde Utd,6,5,E1
-E1,Ashton Utd,Ilkeston Town,6,4,E1
-E1,Bamber Bridge,Ashton Utd,7,5,E1
-E1,Worksop Town,Workington,6,4,E1
-E1,Stafford Rangers,Whitby,1,3,E1
-E1,Radcliffe FC,Matlock Town,5,2,E1
-E1,Marine,Morpeth Town,5,3,E1
-E1,Ilkeston Town,Atherton Collieries,5,4,E1
-E1,Hyde Utd,FC United of Manchester,2,6,E1
-E1,Guiseley,Warrington Rylands,4,6,E1
-E1,Bradford P A,Basford Utd,4,11,E1
-E1,Workington,Atherton Collieries,5,4,E1
-E1,Basford Utd,Worksop Town,8,11,E1
-E1,Bradford P A,Radcliffe FC,5,10,E1
-E1,FC United of Manchester,Ashton Utd,10,5,E1
-E1,Gainsborough,Stafford Rangers,6,7,E1
-E1,Matlock Town,Ilkeston Town,6,1,E1
-E1,Bamber Bridge,Gainsborough,5,0,E1
-E1,Worksop Town,Hyde Utd,5,6,E1
-E1,Stafford Rangers,Workington,4,5,E1
-E1,Macclesfield FC,FC United of Manchester,11,6,E1
-E1,Ilkeston Town,Bradford P A,8,6,E1
-E1,Guiseley,Lancaster City,6,6,E1
-E1,Atherton Collieries,Basford Utd,8,3,E1
-E1,Matlock Town,Marine,5,5,E1
-E1,Ashton Utd,Whitby,2,4,E1
-E1,Whitby,FC United of Manchester,6,4,E1
-E1,Ashton Utd,Macclesfield FC,0,0,E1
-E1,Gainsborough,Workington,1,9,E1
-E1,Guiseley,Ilkeston Town,7,4,E1
-E1,Matlock Town,Whitby,4,2,E1
-E1,Radcliffe FC,Ashton Utd,10,7,E1
-E1,Radcliffe FC,Morpeth Town,13,4,E1
-E1,Stafford Rangers,Macclesfield FC,2,4,E1
-E1,Workington,Atherton Collieries,5,4,E1
-E1,Basford Utd,Worksop Town,8,11,E1
-E1,Bradford P A,Radcliffe FC,5,10,E1
-E1,FC United of Manchester,Ashton Utd,10,5,E1
-E1,Gainsborough,Stafford Rangers,6,7,E1
-E1,Matlock Town,Ilkeston Town,6,1,E1
-E1,Bamber Bridge,Gainsborough,5,0,E1
-E1,Worksop Town,Hyde Utd,5,6,E1
-E1,Stafford Rangers,Workington,4,5,E1
-E1,Macclesfield FC,FC United of Manchester,11,6,E1
-E1,Ilkeston Town,Bradford P A,8,6,E1
-E1,Guiseley,Lancaster City,6,6,E1
-E1,Atherton Collieries,Basford Utd,8,3,E1
-E1,Matlock Town,Marine,5,5,E1
-E1,Ashton Utd,Whitby,2,4,E1
-E1,Whitby,FC United of Manchester,6,4,E1
-E1,Ashton Utd,Macclesfield FC,0,0,E1
-E1,Gainsborough,Workington,1,9,E1
-E1,Guiseley,Ilkeston Town,7,4,E1
-E1,Matlock Town,Whitby,4,2,E1
-E1,Radcliffe FC,Ashton Utd,10,7,E1
-E1,Radcliffe FC,Morpeth Town,13,4,E1
-E1,Stafford Rangers,Macclesfield FC,2,4,E1
-E1,Bamber Bridge,Atherton Collieries,7,1,E1
-E1,Ashton Utd,Worksop Town,11,3,E1
-E1,Bradford P A,Warrington Rylands,5,8,E1
-E1,Guiseley,Radcliffe FC,6,8,E1
-E1,Matlock Town,Lancaster City,4,11,E1
-E1,Workington,Hyde Utd,9,3,E1
-E1,Ashton Utd,Lancaster City,5,7,E1
-E1,FC United of Manchester,Warrington Rylands,4,2,E1
-E1,Atherton Collieries,Guiseley,3,4,E1
-E1,Whitby,Lancaster City,7,6,E1
-E1,Ilkeston Town,Radcliffe FC,6,8,E1
-E1,Marine,Bradford P A,7,6,E1
-E1,Stafford Rangers,Guiseley,6,1,E1
-E1,FC United of Manchester,Warrington Rylands,3,6,E1
-E1,Bradford P A,Ashton Utd,7,3,E1
-E1,Gainsborough,Basford Utd,5,3,E1
-E1,Hyde Utd,Stafford Rangers,5,8,E1
-E1,Radcliffe FC,Marine,12,4,E1
-E1,Radcliffe FC,Atherton Collieries,11,6,E1
-E1,Ilkeston Town,Lancaster City,4,3,E1
-E1,Basford Utd,Hyde Utd,7,3,E1
-E1,Atherton Collieries,Gainsborough,3,3,E1
-E1,Ashton Utd,Guiseley,7,5,E1
-E1,FC United of Manchester,Radcliffe FC,8,11,E1
-E1,Hyde Utd,Workington,5,4,E1
-E1,Ilkeston Town,Marine,2,3,E1
-E1,Radcliffe FC,Guiseley,11,3,E1
-E1,Worksop Town,Ashton Utd,6,7,E1
-E1,FC United of Manchester,Marine,6,2,E1
+E1,Al Hamriyah,Emirates Club RAK,5,7,E1
+E1,Majd FC,Al Fujairah,0,10,E1
+E1,Dubai City,Hatta Dubai,9,2,E1
+E1,Al Thaid,Dibba Al Hisn,5,2,E1
+E1,Al Arabi Umm Al Quwain,Gulf United FC,3,7,E1
+E1,Dubai United,Al Urooba,5,4,E1
+E1,Emirates Club RAK,Al Ittifaq Dubai,3,2,E1
+E1,Hatta Dubai,Al Thaid,6,3,E1
+E1,Dibba Al Hisn,Al Hamriyah,8,5,E1
+E1,Al Jazira Al Hamra,Majd FC,10,3,E1
+E1,Al Fujairah,Dubai City,10,2,E1
+E1,Al Ittifaq Dubai,Dubai United,4,2,E1
+E1,Al Arabi Umm Al Quwain,Dubai United,5,4,E1
+E1,Al Ittifaq Dubai,Dibba Al Hisn,5,8,E1
+E1,Al Urooba,Emirates Club RAK,6,10,E1
+E1,Al Thaid,Al Fujairah,3,7,E1
+E1,Al Hamriyah,Hatta Dubai,5,5,E1
+E1,Al Jazira Al Hamra,Dubai City,7,3,E1
+E1,Masfout CSC,Gulf United FC,6,2,E1
+E1,Al Ittifaq Dubai,Al Urooba,7,8,E1
+E1,Al Hamriyah,Al Arabi Umm Al Quwain,3,2,E1
+E1,Dubai United,Masfout CSC,5,2,E1
+E1,Majd FC,Dubai City,2,5,E1
+E1,Dibba Al Hisn,Al Urooba,6,2,E1
+E1,Al Fujairah,Al Hamriyah,4,3,E1
+E1,Al Jazira Al Hamra,Al Thaid,5,3,E1
+E1,Emirates Club RAK,Al Arabi Umm Al Quwain,2,3,E1
+E1,Hatta Dubai,Al Ittifaq Dubai,8,1,E1
+E1,Gulf United FC,Dubai United,1,2,E1
+E1,Al Ittifaq Dubai,Al Fujairah,4,2,E1
+E1,Al Urooba,Hatta Dubai,9,1,E1
+E1,Al Hamriyah,Al Jazira Al Hamra,5,2,E1
+E1,Al Thaid,Majd FC,5,0,E1
+E1,Al Arabi Umm Al Quwain,Dibba Al Hisn,4,2,E1
+E1,Masfout CSC,Emirates Club RAK,4,3,E1
+E1,Al Fujairah,Dubai United,3,5,E1
+E1,Al Hamriyah,Al Ittifaq Dubai,5,4,E1
+E1,Al Fujairah,Dibba Al Hisn,6,6,E1
+E1,Dubai United,Majd FC,6,4,E1
+E1,Majd FC,Al Hamriyah,5,1,E1
+E1,Dubai City,Al Thaid,1,0,E1
+E1,Al Jazira Al Hamra,Al Ittifaq Dubai,3,5,E1
+E1,Al Fujairah,Al Urooba,7,3,E1
+E1,Dibba Al Hisn,Masfout CSC,4,7,E1
+E1,Emirates Club RAK,Gulf United FC,0,4,E1
+E1,Hatta Dubai,Al Arabi Umm Al Quwain,2,7,E1
+E1,Dubai United,Emirates Club RAK,1,8,E1
+E1,Al Ittifaq Dubai,Majd FC,7,4,E1
+E1,Al Hamriyah,Dubai City,5,0,E1
+E1,Al Arabi Umm Al Quwain,Al Fujairah,2,5,E1
+E1,Al Urooba,Al Jazira Al Hamra,4,4,E1
+E1,Dibba Al Hisn,Gulf United FC,12,6,E1
+E1,Masfout CSC,Hatta Dubai,8,10,E1
+E1,Dubai City,Al Ittifaq Dubai,2,3,E1
+E1,Al Thaid,Al Hamriyah,10,3,E1
+E1,Hatta Dubai,Gulf United FC,5,8,E1
+E1,Al Urooba,Majd FC,8,3,E1
+E1,Dibba Al Hisn,Dubai United,5,4,E1
+E1,Al Jazira Al Hamra,Al Arabi Umm Al Quwain,7,4,E1
+E1,Al Fujairah,Masfout CSC,3,2,E1
+E1,Al Ittifaq Dubai,Al Thaid,5,5,E1
+E1,Al Arabi Umm Al Quwain,Majd FC,3,1,E1
+E1,Al Urooba,Dubai City,3,5,E1
+E1,Dubai United,Hatta Dubai,6,1,E1
+E1,Emirates Club RAK,Dibba Al Hisn,11,1,E1
+E1,Gulf United FC,Al Fujairah,3,4,E1
+E1,Masfout CSC,Al Jazira Al Hamra,2,4,E1
+E1,Majd FC,Masfout CSC,6,7,E1
+E1,Dubai City,Al Arabi Umm Al Quwain,4,7,E1
+E1,Al Thaid,Al Urooba,3,6,E1
+E1,Hatta Dubai,Emirates Club RAK,3,7,E1
+E1,Al Jazira Al Hamra,Gulf United FC,10,5,E1
+E1,Masfout CSC,Dubai City,3,4,E1
+E1,Al Urooba,Al Hamriyah,12,0,E1
+E1,Al Arabi Umm Al Quwain,Al Thaid,3,5,E1
+E1,Dibba Al Hisn,Hatta Dubai,7,6,E1
+E1,Emirates Club RAK,Al Fujairah,1,2,E1
+E1,Dubai United,Al Jazira Al Hamra,5,2,E1
+E1,Gulf United FC,Majd FC,0,3,E1
+E1,Al Thaid,Masfout CSC,5,4,E1
+E1,Dubai City,Gulf United FC,3,11,E1
+E1,Al Jazira Al Hamra,Emirates Club RAK,2,5,E1
+E1,Dubai United,Dubai City,7,6,E1
+E1,Al Arabi Umm Al Quwain,Al Ittifaq Dubai,4,4,E1
+E1,Al Thaid,Gulf United FC,6,3,E1
+E1,Hatta Dubai,Al Fujairah,5,10,E1
+E1,Dibba Al Hisn,Al Jazira Al Hamra,6,1,E1
+E1,Emirates Club RAK,Majd FC,3,4,E1
+E1,Masfout CSC,Al Hamriyah,3,2,E1
+E1,Al Urooba,Al Arabi Umm Al Quwain,12,4,E1
+E1,Al Ittifaq Dubai,Masfout CSC,3,3,E1
+E1,Al Thaid,Dubai United,5,5,E1
+E1,Al Hamriyah,Gulf United FC,4,5,E1
+E1,Dibba Al Hisn,Majd FC,5,1,E1
+E1,Al Jazira Al Hamra,Hatta Dubai,5,4,E1
+E1,Dubai City,Emirates Club RAK,5,6,E1
+E1,Al Dhaid,Al Hamriyah,3,9,E1
+E1,Masfout CSC,Dubai United,4,5,E1
+E1,Al Arabi Umm Al Quwain,Al Dhafra SCC,2,1,E1
+E1,Majd FC,Al Fujairah,3,3,E1
+E1,Hatta Dubai,Gulf United FC,8,4,E1
+E1,Dibba Al Fujairah,Al Jazira Al Hamra,3,7,E1
+E1,Emirates Club RAK,Dubai United,1,4,E1
+E1,Al Jazira Al Hamra,Al Dhaid,4,10,E1
+E1,Al Hamriyah,Hatta Dubai,3,2,E1
+E1,Gulf United FC,Majd FC,6,1,E1
+E1,Al Fujairah,Gulf FC,7,3,E1
+E1,Al Dhafra SCC,Masfout CSC,2,4,E1
+E1,Al Dhaid,Dibba Al Fujairah,6,3,E1
+E1,Hatta Dubai,Al Jazira Al Hamra,7,2,E1
+E1,Majd FC,Al Hamriyah,3,4,E1
+E1,Gulf FC,Gulf United FC,3,3,E1
+E1,Al Arabi Umm Al Quwain,Al Fujairah,4,6,E1
+E1,Emirates Club RAK,Al Dhafra SCC,2,7,E1
+E1,Al Dhafra SCC,Dubai United,2,6,E1
+E1,Al Arabi Umm Al Quwain,Gulf United FC,3,3,E1
+E1,Al Arabi Umm Al Quwain,Gulf United FC,3,3,E1
+E1,Dibba Al Fujairah,Hatta Dubai,10,6,E1
+E1,Al Hamriyah,Gulf FC,4,2,E1
+E1,Al Fujairah,Masfout CSC,5,1,E1
+E1,Al Arabi Umm Al Quwain,Al Hamriyah,3,4,E1
+E1,Masfout CSC,Gulf United FC,6,1,E1
+E1,Hatta Dubai,Al Dhaid,2,5,E1
+E1,Emirates Club RAK,Al Fujairah,0,2,E1
+E1,Majd FC,Dibba Al Fujairah,3,9,E1
+E1,Gulf FC,Al Jazira Al Hamra,7,3,E1
+E1,Dibba Al Fujairah,Gulf FC,10,1,E1
+E1,Gulf United FC,Emirates Club RAK,5,2,E1
+E1,Al Fujairah,Dubai United,7,8,E1
+E1,Al Hamriyah,Masfout CSC,1,3,E1
+E1,Al Jazira Al Hamra,Al Arabi Umm Al Quwain,5,5,E1
+E1,Al Dhaid,Majd FC,5,1,E1
+E1,Emirates Club RAK,Al Hamriyah,5,9,E1
+E1,Hatta Dubai,Majd FC,8,8,E1
+E1,Al Arabi Umm Al Quwain,Dibba Al Fujairah,2,5,E1
+E1,Dubai United,Gulf United FC,8,6,E1
+E1,Al Dhafra SCC,Al Fujairah,6,5,E1
+E1,Masfout CSC,Al Jazira Al Hamra,1,5,E1
+E1,Al Dhaid,Gulf FC,7,3,E1
+E1,Gulf United FC,Al Dhafra SCC,4,3,E1
+E1,Al Dhaid,Al Arabi Umm Al Quwain,7,1,E1
+E1,Dibba Al Fujairah,Masfout CSC,5,3,E1
+E1,Al Jazira Al Hamra,Emirates Club RAK,2,8,E1
+E1,Al Hamriyah,Dubai United,2,4,E1
+E1,Masfout CSC,Al Dhaid,1,9,E1
+E1,Al Arabi Umm Al Quwain,Hatta Dubai,3,7,E1
+E1,Emirates Club RAK,Dibba Al Fujairah,8,4,E1
+E1,Majd FC,Gulf Heroes FC,5,1,E1
+E1,Al Dhafra SCC,Al Hamriyah,4,2,E1
+E1,Dubai United,Al Jazira Al Hamra,1,5,E1
+E1,Majd FC,Al Arabi Umm Al Quwain,5,4,E1
+E1,Hatta Dubai,Masfout CSC,6,3,E1
+E1,Al Dhaid,Emirates Club RAK,3,7,E1
+E1,Al Jazira Al Hamra,Al Dhafra SCC,2,6,E1
+E1,Dibba Al Fujairah,Dubai United,7,4,E1
+E1,Gulf United FC,Al Fujairah,5,2,E1
+E1,Masfout CSC,Majd FC,10,3,E1
+E1,Emirates Club RAK,Hatta Dubai,6,0,E1
+E1,Al Arabi Umm Al Quwain,Gulf Heroes FC,8,5,E1
+E1,Al Dhafra SCC,Dibba Al Fujairah,3,3,E1
+E1,Dubai United,Al Dhaid,3,5,E1
+E1,Al Fujairah,Al Hamriyah,8,3,E1
+E1,Al Hamriyah,Gulf United FC,3,5,E1
+E1,Gulf Heroes FC,Masfout CSC,2,2,E1
+E1,Al Dhaid,Al Dhafra SCC,3,2,E1
+E1,Majd FC,Emirates Club RAK,3,3,E1
+E1,Hatta Dubai,Dubai United,9,6,E1
+E1,Al Jazira Al Hamra,Al Fujairah,4,5,E1
+E1,Al Dhafra SCC,Hatta Dubai,4,2,E1
+E1,Dubai United,Majd FC,8,7,E1
+E1,Masfout CSC,Al Arabi Umm Al Quwain,3,4,E1
+E1,Al Fujairah,Dibba Al Fujairah,3,3,E1
+E1,Emirates Club RAK,Gulf Heroes FC,5,2,E1
+E1,Gulf United FC,Al Jazira Al Hamra,5,5,E1
+E1,Al Dhaid,Al Fujairah,5,3,E1
+E1,Dibba Al Fujairah,Gulf United FC,10,4,E1
+E1,Al Arabi Umm Al Quwain,Emirates Club RAK,2,4,E1
+E1,Majd FC,Al Dhafra SCC,1,6,E1
+E1,Al Jazira Al Hamra,Al Hamriyah,5,7,E1
+E1,Gulf Heroes FC,Dubai United,6,10,E1
+E1,Al Hamriyah,Dibba Al Fujairah,9,2,E1
+E1,Al Fujairah,Hatta Dubai,3,4,E1
+E1,Emirates Club RAK,Masfout CSC,6,2,E1
+E1,Gulf United FC,Al Dhaid,1,3,E1
+E1,Al Dhafra SCC,Gulf Heroes FC,3,4,E1
+E1,Dubai United,Al Arabi Umm Al Quwain,7,2,E1
+E1,Al Fujairah,Majd FC,3,2,E1
+E1,Al Hamriyah,Al Dhaid,5,6,E1
+E1,Al Jazira Al Hamra,Dibba Al Fujairah,5,6,E1
+E1,Al Dhafra SCC,Al Arabi Umm Al Quwain,2,3,E1
+E1,Gulf United FC,Hatta Dubai,3,4,E1
+E1,Dubai United,Masfout CSC,9,1,E1
+E1,Hatta Dubai,Al Hamriyah,7,4,E1
+E1,Al Dhaid,Al Jazira Al Hamra,8,6,E1
+E1,Emirates Club RAK,Dubai United,4,11,E1
+E1,Majd FC,Gulf United FC,1,9,E1
+E1,Gulf Heroes FC,Al Fujairah,6,8,E1
+E1,Masfout CSC,Al Dhafra SCC,3,6,E1
+E1,Al Hamriyah,Majd FC,12,5,E1
+E1,Dibba Al Fujairah,Al Dhaid,3,1,E1
+E1,Gulf United FC,Gulf Heroes FC,8,3,E1
+E1,Al Dhafra SCC,Emirates Club RAK,7,3,E1
+E1,Al Fujairah,Al Arabi Umm Al Quwain,4,4,E1
+E1,Al Jazira Al Hamra,Hatta Dubai,4,1,E1
+E1,Dubai United,Al Dhafra SCC,3,4,E1
+E1,Masfut,Al Fujairah,6,3,E1
+E1,Al Arabi Umm Al Quwain,Gulf United FC,6,4,E1
+E1,Majd FC,Al Jazira Al Hamra,7,4,E1
+E1,Gulf FC,Al Hamriyah,4,5,E1
+E1,Hatta Dubai,Dibba Al Fujairah,6,6,E1
+E1,Gulf United FC,Masfout CSC,1,3,E1
+E1,Al Dhaid,Hatta Dubai,9,7,E1
+E1,Dibba Al Fujairah,Al Dahra FC,9,5,E1
+E1,Al Hamriyah,Al Arabi Umm Al Quwain,6,7,E1
+E1,Al Jazira Al Hamra,Gulf Heroes FC,7,3,E1
+E1,Al Fujairah,Emirates Club RAK,2,6,E1
+E1,Dibba Al Fujairah,Al Fujairah,5,2,E1
+E1,Hatta Dubai,Al Dhafra SCC,5,7,E1
+E1,Majd FC,Al Dhaid,3,4,E1
+E1,Masfout CSC,Al Hamriyah,6,1,E1
+E1,Dubai United,Al Fujairah,7,7,E1
+E1,Al Arabi Umm Al Quwain,Al Jazira Al Hamra,7,4,E1
+E1,Gulf Heroes FC,Dibba Al Fujairah,1,8,E1
+E1,Emirates Club RAK,Gulf United FC,5,2,E1
+E1,Al Jazira Al Hamra,Masfout CSC,4,3,E1
+E1,Hatta Dubai,Majd FC,5,1,E1
+E1,Al Fujairah,Al Dhafra SCC,2,5,E1
+E1,Al Dhaid,Gulf FC,4,2,E1
+E1,Gulf United FC,Dubai United,3,5,E1
+E1,Al Hamriyah,Emirates Club RAK,7,0,E1
+E1,Dibba Al Fujairah,Al Arabi Umm Al Quwain,11,1,E1
+E1,Al Arabi Umm Al Quwain,Al Dhaid,5,1,E1
+E1,Dubai United,Al Hamriyah,4,6,E1
+E1,Emirates Club RAK,Al Jazira Al Hamra,5,3,E1
+E1,Masfout CSC,Dibba Al Fujairah,1,7,E1
+E1,Al Dhafra SCC,Gulf United FC,10,7,E1
+E1,Gulf Heroes FC,Hatta Dubai,2,5,E1
+E1,Dibba Al Fujairah,Emirates Club RAK,6,5,E1
+E1,Al Jazira Al Hamra,Dubai United,3,11,E1
+E1,Majd FC,Gulf Heroes FC,3,3,E1
+E1,Al Hamriyah,Al Dhafra SCC,5,5,E1
+E1,Hatta Dubai,Al Arabi Umm Al Quwain,16,2,E1
+E1,Al Dhaid,Masfout CSC,3,4,E1
+E1,Al Dhafra SCC,Al Jazira Al Hamra,8,1,E1
+E1,Masfout CSC,Hatta Dubai,3,5,E1
+E1,Al Fujairah,Gulf United FC,9,3,E1
+E1,Al Arabi Umm Al Quwain,Majd FC,4,5,E1
+E1,Dubai United,Dibba Al Fujairah,7,5,E1
+E1,Emirates Club RAK,Al Dhaid,4,4,E1
+E1,Al Hamriyah,Al Fujairah,4,3,E1
+E1,Gulf Heroes FC,Al Arabi Umm Al Quwain,1,4,E1
+E1,Hatta Dubai,Emirates Club RAK,8,6,E1
+E1,Dibba Al Fujairah,Al Dhafra SCC,1,6,E1
+E1,Al Dahra FC,Masfout CSC,2,6,E1
+E1,Al Dhaid,Dubai United,6,3,E1
+E1,Gulf United FC,Al Hamriyah,1,7,E1
+E1,Al Fujairah,Al Jazira Al Hamra,1,3,E1
+E1,Al Dhafra SCC,Al Dhaid,4,10,E1
+E1,Dubai United,Hatta Dubai,2,6,E1
+E1,Masfout CSC,Gulf Heroes FC,5,4,E1
+E1,Al Arabi Umm Al Quwain,Masfout CSC,4,2,E1
+E1,Al Jazira Al Hamra,Gulf United FC,4,3,E1
+E1,Gulf Heroes FC,Emirates Club RAK,1,4,E1
+E1,Al Dhaid,Fleetwood United,3,3,E1
+E1,Al Hamriyah,Al Jazira Al Hamra,5,5,E1
+E1,Dubai United,Gulf Heroes FC,3,0,E1
+E1,Emirates Club RAK,Al Arabi Umm Al Quwain,8,2,E1
+E1,Gulf United FC,Dibba Al Fujairah,3,9,E1
+E1,Al Fujairah,Al Dhaid,1,5,E1
+E1,Al Arabi Umm Al Quwain,Dubai United,3,3,E1
+E1,Masfout CSC,Emirates Club RAK,2,4,E1
+E1,Hatta Dubai,Al Fujairah,9,1,E1
+E1,Masfout CSC,Emirates Club RAK,2,4,E1
+E1,Al Dhaid,Gulf United FC,6,2,E1
+E1,Al Arabi Umm Al Quwain,Al Urooba,3,6,E1
+E1,Al Fujairah,Al Dhaid,3,2,E1
+E1,Al Hamriyah,Gulf United FC,5,1,E1
+E1,Masfout CSC,City FC,5,5,E1
+E1,Al Jazira Al Hamra,Gulf Heroes FC,6,7,E1
+E1,Dibba Al Hisn,Al Taawon,5,1,E1
+E1,Masafi,Dubai United,2,7,E1
+E1,Al Dhafra SCC,Gulf Heroes FC,6,4,E1
+E1,Al Jazira Al Hamra,Gulf United FC,6,4,E1
+E1,Al Dhaid,Masfout CSC,9,7,E1
+E1,Dubai United,Dibba Al Hisn,2,5,E1
+E1,Dibba Al Fujairah,Al Fujairah,6,9,E1
+E1,Al Urooba,Al Hamriyah,7,6,E1
+E1,Dibba Al Hisn,City FC,6,0,E1
+E1,Masafi,Al Dhaid,3,6,E1
+E1,Al Hamriyah,Al Taawon,10,2,E1
+E1,Al Jazira Al Hamra,Al Urooba,7,11,E1
+E1,Masfout CSC,Dibba Al Fujairah,2,9,E1
+E1,Al Dhafra SCC,Gulf United FC,4,2,E1
+E1,Al Arabi Umm Al Quwain,Dubai United,2,2,E1
+E1,Gulf United FC,Gulf Heroes FC,4,1,E1
+E1,Al Urooba,Al Dhafra SCC,4,6,E1
+E1,Dibba Al Fujairah,Masafi,8,3,E1
+E1,Dubai United,Al Hamriyah,6,4,E1
+E1,Al Dhaid,Dibba Al Hisn,1,4,E1
+E1,Al Taawon,Al Jazira Al Hamra,6,1,E1
+E1,Al Arabi Umm Al Quwain,City FC,5,1,E1
+E1,Al Dhafra SCC,Al Taawon,6,1,E1
+E1,Masfout CSC,Al Fujairah,1,8,E1
+E1,Gulf Heroes FC,Al Urooba,4,8,E1
+E1,Al Hamriyah,City FC,10,4,E1
+E1,Al Arabi Umm Al Quwain,Al Dhaid,6,3,E1
+E1,Dibba Al Hisn,Dibba Al Fujairah,5,3,E1
+E1,Al Jazira Al Hamra,Dubai United,4,7,E1
+E1,Al Dhaid,Al Hamriyah,3,4,E1
+E1,Al Jazira Al Hamra,City FC,5,0,E1
+E1,Al Dhaid,Al Hamriyah,3,4,E1
+E1,Dubai United,Al Dhafra SCC,3,4,E1
+E1,Al Taawon,Gulf Heroes FC,3,2,E1
+E1,Al Urooba,Gulf United FC,6,5,E1
+E1,Gulf Heroes FC,Dubai United,4,11,E1
+E1,Al Hamriyah,Dibba Al Fujairah,6,1,E1
+E1,Al Jazira Al Hamra,Al Dhaid,2,5,E1
+E1,Dibba Al Hisn,Al Fujairah,7,3,E1
+E1,Al Dhafra SCC,City FC,2,1,E1
+E1,Gulf United FC,Al Taawon,6,5,E1
+E1,Masafi,Masfout CSC,4,1,E1
+E1,Dubai United,Gulf United FC,4,5,E1
+E1,City FC,Gulf Heroes FC,3,1,E1
+E1,Masfout CSC,Dibba Al Hisn,1,8,E1
+E1,Al Taawon,Al Urooba,1,1,E1
+E1,Dibba Al Fujairah,Al Jazira Al Hamra,6,1,E1
+E1,Al Fujairah,Al Arabi Umm Al Quwain,3,6,E1
+E1,Al Dhaid,Al Dhafra SCC,5,8,E1
+E1,Masafi,Gulf Heroes FC,8,6,E1
+E1,Dibba Al Fujairah,Dubai United,3,5,E1
+E1,Dibba Al Hisn,Al Dhafra SCC,4,4,E1
+E1,Al Arabi Umm Al Quwain,Al Jazira Al Hamra,5,5,E1
+E1,Al Rams,Al Taawon,8,3,E1
+E1,Al Dhaid,City FC,7,0,E1
+E1,Al Fujairah,Al Urooba,4,9,E1
+E1,Masfout CSC,Gulf United FC,8,9,E1
+E1,Gulf United FC,City FC,3,2,E1
+E1,Al Arabi Umm Al Quwain,Masfout CSC,4,7,E1
+E1,Al Jazira Al Hamra,Al Rams,5,8,E1
+E1,Al Hamriyah,Al Fujairah,5,5,E1
+E1,Dibba Al Hisn,Masafi,9,3,E1
+E1,Dubai United,Al Urooba,0,0,E1
+E1,Al Dhafra SCC,Dibba Al Fujairah,7,9,E1
+E1,Al Dhaid,Gulf Heroes FC,6,3,E1
+E1,Dibba Al Fujairah,Gulf Heroes FC,9,3,E1
+E1,Masafi,Al Arabi Umm Al Quwain,3,2,E1
+E1,Dubai United,Al Taawon,6,4,E1
+E1,Al Fujairah,Al Jazira Al Hamra,7,3,E1
+E1,City FC,Al Urooba,1,12,E1
+E1,Al Dhaid,Gulf United FC,4,4,E1
+E1,Al Rams,Al Dhafra SCC,4,7,E1
+E1,Masfout CSC,Al Hamriyah,5,6,E1
+E1,Al Hamriyah,Masafi,4,7,E1
+E1,Al Jazira Al Hamra,Masfout CSC,3,7,E1
+E1,Al Taawon,City FC,7,5,E1
+E1,Al Arabi Umm Al Quwain,Dibba Al Hisn,4,6,E1
+E1,Al Dhafra SCC,Al Fujairah,7,4,E1
+E1,Gulf United FC,Dibba Al Fujairah,9,4,E1
+E1,Al Urooba,Al Dhaid,2,3,E1
+E1,Gulf Heroes FC,Al Rams,4,3,E1
+E1,City FC,Dubai United,4,9,E1
+E1,Al Dhaid,Al Taawon,9,1,E1
+E1,Dibba Al Hisn,Al Hamriyah,2,2,E1
+E1,Masafi,Al Jazira Al Hamra,8,3,E1
+E1,Masfout CSC,Al Dhafra SCC,2,9,E1
+E1,Dibba Al Fujairah,Al Urooba,4,4,E1
+E1,Al Fujairah,Gulf Heroes FC,4,3,E1
+E1,Al Rams,Gulf United FC,5,7,E1
+E1,Al Dhafra SCC,Masafi,3,4,E1
+E1,Dubai United,Al Dhaid,4,6,E1
+E1,Masfout CSC,Gulf Heroes FC,1,0,E1
+E1,Al Urooba,Al Rams,4,3,E1
+E1,Al Taawon,Dibba Al Fujairah,1,4,E1
+E1,Al Arabi Umm Al Quwain,Al Hamriyah,2,1,E1
+E1,Gulf United FC,Al Fujairah,1,7,E1
+E1,Al Jazira Al Hamra,Dibba Al Hisn,3,6,E1
+E1,Gulf United FC,Masafi,3,3,E1
+E1,Dubai United,Al Rams,5,2,E1
+E1,Al Jazira Al Hamra,Al Hamriyah,7,8,E1
+E1,Dibba Al Hisn,Gulf Heroes FC,4,5,E1
+E1,Al Urooba,Masfout CSC,6,4,E1
+E1,Al Dhafra SCC,Al Arabi Umm Al Quwain,6,1,E1
+E1,Al Taawon,Al Fujairah,3,6,E1
+E1,Dibba Al Fujairah,City FC,8,2,E1
+E1,Al Fujairah,Dubai United,1,3,E1
+E1,Al Rams,City FC,16,2,E1
+E1,Dibba Al Fujairah,Al Dhaid,14,2,E1
+E1,Al Taawon,Masfout CSC,5,1,E1
+E1,Al Arabi Umm Al Quwain,Gulf Heroes FC,2,4,E1
+E1,Al Hamriyah,Al Dhafra SCC,5,4,E1
+E1,Masafi,Al Urooba,4,3,E1
+E1,Dibba Al Hisn,Gulf United FC,7,2,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
+E1,,,,,E1
